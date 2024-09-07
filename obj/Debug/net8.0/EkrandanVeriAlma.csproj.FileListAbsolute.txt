@@ -1,0 +1,14 @@
+/Users/emrahelis/Desktop/EkrandanVeriAlma/bin/Debug/net8.0/EkrandanVeriAlma
+/Users/emrahelis/Desktop/EkrandanVeriAlma/bin/Debug/net8.0/EkrandanVeriAlma.deps.json
+/Users/emrahelis/Desktop/EkrandanVeriAlma/bin/Debug/net8.0/EkrandanVeriAlma.runtimeconfig.json
+/Users/emrahelis/Desktop/EkrandanVeriAlma/bin/Debug/net8.0/EkrandanVeriAlma.dll
+/Users/emrahelis/Desktop/EkrandanVeriAlma/bin/Debug/net8.0/EkrandanVeriAlma.pdb
+/Users/emrahelis/Desktop/EkrandanVeriAlma/obj/Debug/net8.0/EkrandanVeriAlma.GeneratedMSBuildEditorConfig.editorconfig
+/Users/emrahelis/Desktop/EkrandanVeriAlma/obj/Debug/net8.0/EkrandanVeriAlma.AssemblyInfoInputs.cache
+/Users/emrahelis/Desktop/EkrandanVeriAlma/obj/Debug/net8.0/EkrandanVeriAlma.AssemblyInfo.cs
+/Users/emrahelis/Desktop/EkrandanVeriAlma/obj/Debug/net8.0/EkrandanVeriAlma.csproj.CoreCompileInputs.cache
+/Users/emrahelis/Desktop/EkrandanVeriAlma/obj/Debug/net8.0/EkrandanVeriAlma.dll
+/Users/emrahelis/Desktop/EkrandanVeriAlma/obj/Debug/net8.0/refint/EkrandanVeriAlma.dll
+/Users/emrahelis/Desktop/EkrandanVeriAlma/obj/Debug/net8.0/EkrandanVeriAlma.pdb
+/Users/emrahelis/Desktop/EkrandanVeriAlma/obj/Debug/net8.0/EkrandanVeriAlma.genruntimeconfig.cache
+/Users/emrahelis/Desktop/EkrandanVeriAlma/obj/Debug/net8.0/ref/EkrandanVeriAlma.dll
